@@ -8,7 +8,7 @@
 
 ### 👤contributor
 
-- [김지우](https://github.com/skkuKJW)
+- [김지우](https://github.com/g-wooo)
 - [배수혜](https://github.com/SuHae-Bae)
 
 ------
@@ -37,7 +37,7 @@
 
 ## 분석1. 연도별 인구수와 주택 매매가(평균)의 상관관계
 
-👤contributor : [김지우](https://github.com/skkuKJW)
+👤contributor : [김지우](https://github.com/g-wooo)
 
 - 연도별 인구수가 주택 매매가(평균)에 어떤 영향을 미치는지 알아보기 위한 분석을 진행했습니다.
 
@@ -87,7 +87,7 @@
 
 ## 분석2. 읍면동 별 인구수와 주택 매매가(평균)의 상관관계
 
-👤contributor : [김지우](https://github.com/skkuKJW)
+👤contributor : [김지우](https://github.com/g-wooo)
 
 - 읍면동 별 인구수가 주택 매매가(평균)에 어떤 영향을 미치는지 알아보기 위한 분석을 진행했습니다.
 
@@ -141,7 +141,7 @@
 ![image](https://user-images.githubusercontent.com/33304926/147365805-ce1a7764-737e-4707-909f-c244b37c5f00.png)
 
 - 읍면동 별 인구수와 오피스텔 매매가는 비슷한 흐름을 보였습니다.
-- 도담동은 인구수와 매매가가 비례하는 반명, 부강면은 인구수가 적음에도 오피스텔 거래가가 높았습니다.
+- 도담동은 인구수와 매매가가 비례하는 반면, 부강면은 인구수가 적음에도 오피스텔 거래가가 높았습니다.
 - 하지만, 세종시의 오피스텔 거래량이 매우 적기 때문에 <u>거래가 있었던 지역만의 매매건수</u>를 살펴보았습니다.
 
 ![image](https://user-images.githubusercontent.com/33304926/147365821-03af7abf-c66c-4337-a5a2-2da41f2aebbb.png)
@@ -236,7 +236,7 @@
 
 👤contributor
 
-- [김지우](https://github.com/skkuKJW)
+- [김지우](https://github.com/g-wooo)
 - [배수혜](https://github.com/SuHae-Bae)
   - 세종시의 주택 시장 특성이 담긴 데이터를 QGIS를 이용해 다양한 방법으로 시각화하였습니다.
 
